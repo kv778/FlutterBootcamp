@@ -76,6 +76,7 @@ class _SecondState extends State<Second> {
         ],
         )
       ),
+      backgroundColor: Colors.black
     );
   }
 }
